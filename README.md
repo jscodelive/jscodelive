@@ -1,13 +1,14 @@
-- 👋 Hi, I’m @jscodelive
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
-file:///home/seijas/Documentos/descargas/69575674_552948355244599_4310631402505764864_n.jpg
+<p align="center" width="300">
+   <img align="center" width="200" src="https://user-images.githubusercontent.com/" />
+   <h3 align="center">¡Hey 👋! Soy jscode 👨🏻‍💻</h3>
+</p>
 
-<!---
-js file:///home/seijas/Documentos/descargas/69575674_552948355244599_4310631402505764864_n.jpg
+### 📸 Mis últimas fotos en [mi Instagram](https://instagram.com/jscode.live)
 
-codelive/jscodelive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+### 📝 Últimos artículos en mi [blog de Desarrollo Full Stack: midu.dev](https://jscode.live)
+- [¿Es React una biblioteca o un framework?](https://jscode.live/react-biblioteca-o-framework/)
+- [Malas prácticas en JavaScript](https://jscode.live/malas-practicas-javascript/)
+- [Resumen del libro "14 Hábitos de Desarrolladores Altamente Productivos"](https://jscode.live/14-habitos-programadores-altamente-productivos/)
+- [No todo es un objeto en JavaScript](https://jscode.live/no-todo-objeto-javascript/)
+- [Qué significa ser Senior en Programación](https://jscode.live/que-se-espera-senior-programacion/)
