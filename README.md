@@ -5,6 +5,8 @@
 - 📫 How to reach me ...
 
 <!---
-jscodelive/jscodelive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+js file:///home/seijas/Documentos/descargas/69575674_552948355244599_4310631402505764864_n.jpg
+
+codelive/jscodelive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
