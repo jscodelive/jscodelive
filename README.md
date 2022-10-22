@@ -6,7 +6,7 @@
 ### 📸 Mis últimas fotos en [mi Instagram](https://instagram.com/jscode.live)
 
 
-### 📝 Últimos artículos en mi [blog de Desarrollo Full Stack: midu.dev](https://jscode.live)
+### 📝 Últimos artículos en mi [blog de Desarrollo Full Stack: jscode.live](https://jscode.live)
 - [¿Es React una biblioteca o un framework?](https://jscode.live/react-biblioteca-o-framework/)
 - [Malas prácticas en JavaScript](https://jscode.live/malas-practicas-javascript/)
 - [Resumen del libro "14 Hábitos de Desarrolladores Altamente Productivos"](https://jscode.live/14-habitos-programadores-altamente-productivos/)
