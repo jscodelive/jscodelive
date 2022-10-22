@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://github.com/jscodelive/jscodelive/blob/main/69575674_552948355244599_4310631402505764864_n.jpg" />
+   <img align="center" width="200" src="https://github.com/jscodelive/jscodelive/blob/main/69214236_553259055213529_5058666743845617664_n.jpg" />
    <h3 align="center">¡Hey 👋! Soy jscode 👨🏻‍💻</h3>
 </p>
 
