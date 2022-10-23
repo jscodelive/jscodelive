@@ -3,8 +3,7 @@
    <h3 align="center">¡Hey 👋! Soy jscode 👨🏻‍💻</h3>
 </p>
 
-<h1 align="center">Hi 👋, I'm Jean Seijas</h1>
-<h3 align="center">System Engineer, Full-Stack developer</h3>
+<h3 align="center">Full-Stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jscodelive&label=Profile%20views&color=0e75b6&style=flat" alt="jscodelive" /> </p>
 
