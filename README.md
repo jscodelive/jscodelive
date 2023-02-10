@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/ejeanseijas" target="blank"><img src="https://img.shields.io/twitter/follow/ejeanseijas?logo=twitter&style=for-the-badge" alt="ejeanseijas" /></a> </p>
 
-- 🔭 I have worked in **SODIO, Omitsis, EcommerceFull, Leads Marketing**
+- 🔭 I have worked in **ScotiaBank, SODIO, Omitsis, EcommerceFull, Leads Marketing**
 
 - 🌱 I’m currently learning **React and Django**
 
